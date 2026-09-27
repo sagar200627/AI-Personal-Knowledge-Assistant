@@ -22,6 +22,26 @@
 
 ---
 
+---
+
+## 📸 Application Screenshots
+
+### 💬 AI Chat
+
+![AI Chat](screenshots/ai-chat.png)
+
+---
+
+### 📚 Knowledge Documents
+
+![Knowledge Documents](screenshots/knowledge-documents.png)
+
+---
+
+### 📊 Analytics Dashboard
+
+![Analytics Dashboard](screenshots/analytics.png)
+
 ## 🛠️ Tech Stack
 
 - **Language**: Python 3.12+
